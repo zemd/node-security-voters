@@ -1,0 +1,35 @@
+{
+  "name": "node-security-voters",
+  "version": "1.0.0",
+  "description": "Base ACL voters to build authorization system in your application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zemd/node-security-voters.git"
+  },
+  "keywords": [
+    "authentication",
+    "authorization",
+    "voters",
+    "security",
+    "passport",
+    "koa",
+    "acl"
+  ],
+  "author": "Dmitry Zelenetskiy <dmitry.zelenetskiy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zemd/node-security-voters/issues"
+  },
+  "homepage": "https://github.com/zemd/node-security-voters#readme",
+  "dependencies": {
+    "globby": "^6.1.0",
+    "is-valid-glob": "^0.3.0",
+    "logtown": "^2.0.0",
+    "run-async": "^2.3.0",
+    "rxjs": "^5.0.2"
+  }
+}

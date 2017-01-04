@@ -2,7 +2,7 @@
 
 > ACL voters inspired by [Symfony voters](http://symfony.com/doc/current/security/voters.html)
 
-[![npm version](https://badge.fury.io/js/logtown.svg)](https://www.npmjs.com/package/node-security-voters)
+[![npm version](https://badge.fury.io/js/node-security-voters.svg)](https://www.npmjs.com/package/node-security-voters)
 [![Code Climate](https://codeclimate.com/github/zemd/node-security-voters/badges/gpa.svg)](https://codeclimate.com/github/zemd/node-security-voters)
 [![dependencies:?](https://img.shields.io/david/zemd/node-security-voters.svg)](https://david-dm.org/zemd/node-security-voters)
 [![devDependencies:?](https://img.shields.io/david/dev/zemd/node-security-voters.svg?style=flat)](https://david-dm.org/zemd/node-security-voters)

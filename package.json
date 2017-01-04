@@ -1,6 +1,6 @@
 {
   "name": "node-security-voters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base ACL voters to build authorization system in your application",
   "main": "index.js",
   "scripts": {

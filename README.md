@@ -26,7 +26,7 @@ Voters are very similar to middleware mechanism, but different in implementation
 that tells if some user is granted access to subject using permission(attribute). Voter might or might not be asynchronous.
 
 First you need to add your voter
-```javascrtip
+```javascript
 const security = require('node-security-voters');
 security.addVoter(function (attr, subject, user) {
   if (!user) {

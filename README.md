@@ -124,6 +124,7 @@ security.addVoter(accessMapVoter({
 ## Related project
 
  - https://github.com/slawus/Voters.js
+ - https://github.com/wookieb/alpha-ac
  - http://symfony.com/doc/current/security/voters.html
  - http://docs.spring.io/spring-security/site/docs/3.0.x/reference/authz-arch.html
 
